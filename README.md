@@ -6,4 +6,4 @@
 * Some of the screens of the application are provided below
 ![TweetAnalysis dashboard](https://github.com/jagadeesh-hooli/TweetSentiUI/blob/master/TweetAnalysisDashboard.png "Optional title")
 ![TweetDetails](https://github.com/jagadeesh-hooli/TweetSentiUI/blob/master/TweetDetailsTable.png "Optional title")
-![TweetAnalysis dashboard](https://github.com/jagadeesh-hooli/TweetSentiUI/blob/master/TweetAnalysisDashboard.png "Optional title")
+![TweetTopicInsert](https://github.com/jagadeesh-hooli/TweetSentiUI/blob/master/TweetTopicInsert.png "Optional title")
